@@ -16,7 +16,7 @@ h1{
 body{
   height: 100vh;
   background-color: rgb(196, 223, 246);
-  background-image:url(./img/background.jpg);
+  background-image:url(../img/background.jpg);
   background-size: cover;
   background-repeat: repeat;
 }
@@ -154,7 +154,7 @@ h3{
 }
 
 .deleteButton{
-  background-image: url(./img/poubelle.png);
+  background-image: url(../img/poubelle.png);
   background-position: center;
  background-size: cover;
   height: 30px;
@@ -170,7 +170,7 @@ h3{
 
 
 .arrowUp{
-  background-image: url(./img/arrowUp.png);
+  background-image: url(../img/arrowUp.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -179,7 +179,7 @@ h3{
   cursor: pointer;
 }
 .arrowDown{
-  background-image: url(./img/arrowDown.png);
+  background-image: url(../img/arrowDown.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
